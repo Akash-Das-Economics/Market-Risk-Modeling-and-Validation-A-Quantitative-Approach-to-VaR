@@ -103,4 +103,3 @@ This project reflects the core competencies expected in a **Quant Modelling Anal
 
 **Akash Das**  
 Quantitative Finance | Market Risk | Python Modeling  
-[Email/LinkedIn/GitHub Link Here]
