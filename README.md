@@ -80,25 +80,6 @@ This project mirrors real-world model validation workflows, including:
 
 ---
 
-## 🏁 Next Steps (Optional)
-
-- [ ] Add backtesting and Kupiec/Poferr test  
-- [ ] Automate report generation  
-- [ ] Deploy as an interactive Streamlit dashboard  
-
----
-
-## 👨‍💼 Role Alignment: J.P. Morgan Model Risk Governance
-
-This project reflects the core competencies expected in a **Quant Modelling Analyst** role:
-
-- Strong model validation mindset  
-- Deep understanding of market risk models (VaR, ES, GARCH)  
-- Implementation of advanced quantitative methods  
-- Attention to model robustness, performance, and limitations  
-
----
-
 ## 📬 Contact
 
 **Akash Das**  
